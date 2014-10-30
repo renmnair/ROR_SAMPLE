@@ -1,0 +1,9 @@
+Rails sample app:
+
+
+Application for creating customer and his address through nested resources.
+
+Rails: 4
+Ruby: 2
+
+
